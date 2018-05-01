@@ -1,0 +1,13 @@
+=> Shopping Cart
+    =>Steps to run
+        => execute: npm install
+        => execute: node server.js
+		=> open http://localhost:7777/
+=> Functionality:
+    => Add product by Vendor
+    => Display all products listing
+    => filter products listing by vendor
+    => add to cart
+    => inc/dec quantity
+    => checkout and stock manage
+    => multi user (login & register)
